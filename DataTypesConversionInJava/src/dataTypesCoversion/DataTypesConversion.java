@@ -15,6 +15,7 @@ public class DataTypesConversion {
 		
 		double u = t;
 		System.out.println(u);
+		
 
 	}
 
