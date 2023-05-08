@@ -7,7 +7,7 @@ public class LogicalOperators {
 		int val1 = 9;
 		int val2 = 11;
 		
-		if ((val1 == 1) && (val2 == 11))
+		if ((val1 == 9) && (val2 == 11))
 			System.out.println("val1 == 9 AND val2 == 11");
 		
 		if ((val1 == 9) || (val2 == 10))

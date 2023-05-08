@@ -28,6 +28,10 @@ public class UnaryOperators {
 		
 		System.out.println(++i);
 		
+		boolean result = false;
+		System.out.println(!result);
+		
+		
 		
 
 	}
